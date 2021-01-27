@@ -5,6 +5,6 @@ public class Hello {
         System.out.println("B21 future SDET learning Git");
         System.out.println("Added build plug in to make sure to always use Java 8 anywhere");
 
-        //oh like this movie who played it? let me continue
+        //Do NOT TOUCH THIS LINE
     }
 }
